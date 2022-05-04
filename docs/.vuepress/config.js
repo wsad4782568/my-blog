@@ -2,16 +2,13 @@ const { defaultTheme } = require("@vuepress/theme-default");
 module.exports = {
   title: "耀的博客",
   description: "耀的博客",
+  footer: "asd",
   theme: defaultTheme({
     // 导航栏
     navbar: [
       {
-        text: "Foo",
-        link: "/foo/",
-      },
-      {
-        text: "Bar",
-        link: "/bar",
+        text: "日记",
+        link: "/20220504",
       },
       {
         text: "掘金",
@@ -19,13 +16,13 @@ module.exports = {
       },
       {
         text: "Github",
-        link: "https://github.com",
+        link: "https://github.com/wsad4782568",
       },
     ],
     // 侧边栏
     sidebar: [
       {
-        text: "Foo",
+        text: "日记",
         collapsible: false,
         children: [
           // SidebarItem
@@ -34,8 +31,8 @@ module.exports = {
             link: "/20220504",
           },
           {
-            text: "202206",
-            link: "/202206",
+            text: "那最好的两年",
+            link: "/best_two_year",
           },
         ],
       },
