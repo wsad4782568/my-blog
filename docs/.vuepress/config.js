@@ -8,7 +8,7 @@ module.exports = {
     navbar: [
       {
         text: "日记",
-        link: "/20220505",
+        link: "/20220507",
       },
       {
         text: "掘金",
@@ -25,6 +25,10 @@ module.exports = {
         text: "日记",
         collapsible: false,
         children: [
+          {
+            text: "劝学",
+            link: "/20220507",
+          },
           {
             text: "人类金字塔结构",
             link: "/20220506",
