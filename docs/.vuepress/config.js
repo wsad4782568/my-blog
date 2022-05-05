@@ -8,7 +8,7 @@ module.exports = {
     navbar: [
       {
         text: "日记",
-        link: "/20220504",
+        link: "/20220505",
       },
       {
         text: "掘金",
@@ -25,9 +25,16 @@ module.exports = {
         text: "日记",
         collapsible: false,
         children: [
-          // SidebarItem
           {
-            text: "202205",
+            text: "人类金字塔结构",
+            link: "/20220506",
+          },
+          {
+            text: "谈学习",
+            link: "/20220505",
+          },
+          {
+            text: "五一假期",
             link: "/20220504",
           },
           {
