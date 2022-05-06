@@ -8,7 +8,7 @@ module.exports = {
     navbar: [
       {
         text: "日记",
-        link: "/20220507",
+        link: "/encourage_learn",
       },
       {
         text: "掘金",
@@ -27,6 +27,10 @@ module.exports = {
         children: [
           {
             text: "劝学",
+            link: "/encourage_learn",
+          },
+          {
+            text: "勇敢迈出那一步",
             link: "/20220507",
           },
           {
