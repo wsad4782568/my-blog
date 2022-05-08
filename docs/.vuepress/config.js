@@ -30,6 +30,10 @@ module.exports = {
             link: "/encourage_learn",
           },
           {
+            text: "厚积薄发",
+            link: "/20220508",
+          },
+          {
             text: "勇敢迈出那一步",
             link: "/20220507",
           },
