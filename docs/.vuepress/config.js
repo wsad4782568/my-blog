@@ -30,6 +30,10 @@ module.exports = {
             link: "/encourage_learn",
           },
           {
+            text: "精力管理",
+            link: "/20220517",
+          },
+          {
             text: "什么才是程序员的核心竞争力？",
             link: "/20220509",
           },
