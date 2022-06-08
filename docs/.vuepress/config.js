@@ -30,6 +30,14 @@ module.exports = {
             link: "/encourage_learn",
           },
           {
+            text: "论技术力",
+            link: "/20220608",
+          },
+          {
+            text: "谈嫉妒",
+            link: "/20220601",
+          },
+          {
             text: "精力管理",
             link: "/20220517",
           },
