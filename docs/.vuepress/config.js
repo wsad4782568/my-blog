@@ -30,6 +30,10 @@ module.exports = {
             link: "/encourage_learn",
           },
           {
+            text: "互联网上重拳出击",
+            link: "/20220627",
+          },
+          {
             text: "论技术力",
             link: "/20220608",
           },
