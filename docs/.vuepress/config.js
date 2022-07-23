@@ -30,6 +30,14 @@ module.exports = {
             link: "/encourage_learn",
           },
           {
+            text: "腾讯云开发到阿里云的迁移过程",
+            link: "/20220723",
+          },
+          {
+            text: "简单",
+            link: "/20220720",
+          },
+          {
             text: "互联网上重拳出击",
             link: "/20220627",
           },
