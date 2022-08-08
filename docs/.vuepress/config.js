@@ -30,6 +30,10 @@ module.exports = {
             link: "/encourage_learn",
           },
           {
+            text: "简历",
+            link: "/resume",
+          },
+          {
             text: "腾讯云开发到阿里云的迁移过程",
             link: "/20220723",
           },
