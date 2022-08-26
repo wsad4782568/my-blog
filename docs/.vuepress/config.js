@@ -34,6 +34,10 @@ module.exports = {
             link: "/resume",
           },
           {
+            text: "IP成交",
+            link: "/20220826",
+          },
+          {
             text: "读黄峥公众号文章",
             link: "/20220810",
           },
