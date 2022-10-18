@@ -1,4 +1,5 @@
-const { defaultTheme } = require("@vuepress/theme-default");
+import { defaultTheme } from "@vuepress/theme-default";
+
 module.exports = {
   title: "耀的博客",
   description: "耀的博客",
@@ -32,6 +33,10 @@ module.exports = {
           {
             text: "简历",
             link: "/resume",
+          },
+          {
+            text: "《胆小鬼》、《阿Q正传》观后感",
+            link: "/20220913",
           },
           {
             text: "IP成交",
