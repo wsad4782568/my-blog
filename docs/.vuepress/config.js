@@ -90,6 +90,10 @@ module.exports = {
             link: "/20220504",
           },
           {
+            text: "新的路程",
+            link: "/20210630",
+          },
+          {
             text: "那最好的两年",
             link: "/best_two_year",
           },
