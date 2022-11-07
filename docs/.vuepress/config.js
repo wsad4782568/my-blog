@@ -35,6 +35,10 @@ module.exports = {
             link: "/resume",
           },
           {
+            text: "caoz的梦呓公众号文章列表",
+            link: "/caoz_articles.md"
+          },
+          {
             text: "《胆小鬼》、《阿Q正传》观后感",
             link: "/20220913",
           },
