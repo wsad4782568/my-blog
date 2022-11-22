@@ -39,6 +39,10 @@ module.exports = {
             link: "/caoz_articles.md"
           },
           {
+            text: "吴萌谈用户体验",
+            link: "/20221122.md"
+          },
+          {
             text: "《胆小鬼》、《阿Q正传》观后感",
             link: "/20220913",
           },
