@@ -39,6 +39,10 @@ module.exports = {
             link: "/caoz_articles.md"
           },
           {
+            text: "caoz文章收藏——从一头卖出27万的猪说起",
+            link: "/20230218.md"
+          },
+          {
             text: "caoz谈社交价值",
             link: "/20230217.md"
           },
