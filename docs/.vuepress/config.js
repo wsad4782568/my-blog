@@ -39,6 +39,10 @@ module.exports = {
             link: "/caoz_articles.md"
           },
           {
+            text: "caoz谈社交价值",
+            link: "/20230217.md"
+          },
+          {
             text: "吴萌谈用户体验",
             link: "/20221122.md"
           },
