@@ -39,6 +39,10 @@ module.exports = {
             link: "/caoz_articles.md"
           },
           {
+            text: "人才成长攻略",
+            link: "/20230515.md"
+          },
+          {
             text: "五四青年节",
             link: "/20230504.md"
           },
