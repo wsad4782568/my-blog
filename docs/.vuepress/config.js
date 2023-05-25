@@ -3,7 +3,6 @@ import { defaultTheme } from "@vuepress/theme-default";
 module.exports = {
   title: "耀的博客",
   description: "耀的博客",
-  footer: "asd",
   theme: defaultTheme({
     // 导航栏
     navbar: [
