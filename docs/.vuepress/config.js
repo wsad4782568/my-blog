@@ -39,6 +39,10 @@ module.exports = {
             link: "/caoz_articles.md"
           },
           {
+            text: "黄峥谈常识",
+            link: "/20230525.md"
+          },
+          {
             text: "人才成长攻略",
             link: "/20230515.md"
           },
