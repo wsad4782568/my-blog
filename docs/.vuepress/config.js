@@ -38,6 +38,14 @@ module.exports = {
             link: "/caoz_articles.md"
           },
           {
+            text: "前端自己有一个迷你技术栈",
+            link: "/20230602.md"
+          },
+          {
+            text: "应该怎么完善自己的知识体系，才能成长为技术大牛？",
+            link: "/20230602.md"
+          },
+          {
             text: "黄峥谈常识",
             link: "/20230525.md"
           },
