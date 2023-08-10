@@ -38,8 +38,12 @@ module.exports = {
             link: "/caoz_articles.md"
           },
           {
+            text: "高少谈终身成长",
+            link: "/20230810.md"
+          },
+          {
             text: "前端自己有一个迷你技术栈",
-            link: "/20230602.md"
+            link: "/20230603.md"
           },
           {
             text: "应该怎么完善自己的知识体系，才能成长为技术大牛？",
