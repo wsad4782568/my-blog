@@ -38,6 +38,10 @@ module.exports = {
             link: "/caoz_articles.md"
           },
           {
+            text: "阿布扎比游记",
+            link: "/20230814.md"
+          },
+          {
             text: "高少谈终身成长",
             link: "/20230810.md"
           },
